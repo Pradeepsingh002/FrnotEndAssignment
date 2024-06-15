@@ -81,7 +81,6 @@ ul li a:hover {
 }
 @media (max-width: 768px) {
   .main {
-    width: 100%;
     height: auto;
     padding-inline: 2%;
     padding-block: 6%;
