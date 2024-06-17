@@ -78,6 +78,15 @@ ul li a {
 }
 ul li a:hover {
   text-decoration: underline;
+  color: rgb(44, 123, 241);
+}
+h6{
+  width: 90%;
+  font-size: 18px;
+  font-style: italic;
+  padding-block: 2%;
+  text-align: end;
+  color: whitesmoke;
 }
 @media (max-width: 768px) {
   .main {
